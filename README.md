@@ -99,6 +99,6 @@ certify model, physical-sensor or real-arm performance.
 
 ## License and source
 
-This repository is currently private. Apache-2.0. See
+Apache-2.0. See
 [PROVENANCE.md](PROVENANCE.md) for the source commit, files and extraction changes.
 There is no dependency on the original monorepo.
