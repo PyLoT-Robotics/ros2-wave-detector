@@ -1,0 +1,11 @@
+wave_detector:
+  ros__parameters:
+    model_path: ''
+    image_topic: /camera/color/image_raw
+    frame_id: camera_color_optical_frame
+    window_sec: 2.0
+    max_gap_sec: 0.4
+    min_samples: 6
+    min_amplitude: 0.25
+    min_reversals: 2
+    max_age_sec: 0.5
